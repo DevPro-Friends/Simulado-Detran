@@ -11,4 +11,4 @@
 
     expo start
   
-Em seu IOS/Android instale o app `Expo GO` e em seguida com a câmera leia o código QR que foi gerado ao executar o código acima 'expo start'.
+Em seu IOS/Android instale o app `Expo GO` e em seguida com a câmera leia o código QR que foi gerado ao executar o código acima.
