@@ -1,7 +1,7 @@
 # Simulado-Detran
  Aplicativo de simulado do Detran feito em React Native
 
-# Rodar o aplicativo
+# Executar o aplicativo
 
  Antes de tudo precisaremos instalar os módulos e, para isso iremos abrir o terminal no root do projeto e executar o seguinte comando:
 
