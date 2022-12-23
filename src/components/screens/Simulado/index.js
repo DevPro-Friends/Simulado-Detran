@@ -10,6 +10,13 @@ import { AntDesign } from '@expo/vector-icons';
 import { environments } from '../../../../config/environments';
 
 export default function SimuladoScreen ({ route, navigation }) {
+  
+  //---------------------------------------------------//
+  //-----> Todo esse código é apenas para teste! <-----//
+  //---------------------------------------------------//
+  //==========================================================================
+  // Antes de usar comente todo o código da função para executar o aplicativo.
+  //==========================================================================-
 
   const simulado = route.params.data;
 
